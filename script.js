@@ -11,6 +11,6 @@ function diminuirFonte(){
 }
 
 function AltoFonte(){
-    tamanhoFonte += 2;
+    
     document.body.classList.toggle('contraste');
 }
